@@ -1,0 +1,28 @@
+# DRUGVISTA Dependencies
+# ======================
+# Install with: pip install -r requirements.txt
+
+# Core Framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+
+# Frontend
+streamlit==1.31.0
+requests==2.31.0
+
+# ML / Embeddings
+sentence-transformers==2.3.1
+torch>=2.0.0
+
+# Vector Store
+faiss-cpu==1.7.4
+numpy>=1.24.0
+
+# LLM Client
+openai==1.12.0
+httpx>=0.25.0
+
+# Utilities
+python-dotenv==1.0.0
+

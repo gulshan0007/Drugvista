@@ -1,0 +1,35 @@
+---
+id: trial_002
+type: clinical_trial
+topic: NASH/MASH treatment
+disease: Nonalcoholic steatohepatitis
+molecule: Resmetirom
+phase: Phase 3
+status: Completed
+---
+
+Trial: MAESTRO-NASH - Resmetirom for NASH with Liver Fibrosis
+
+Sponsor: Madrigal Pharmaceuticals
+Enrollment: 966 patients
+Duration: 52 weeks
+Population: Adults with biopsy-confirmed NASH and stage F1B-F3 fibrosis
+
+Primary Endpoints: 
+1. NASH resolution without worsening fibrosis
+2. ≥1 stage fibrosis improvement without NASH worsening
+
+Results (80mg dose):
+- NASH resolution: 29.9% vs 9.7% placebo (p<0.001)
+- Fibrosis improvement: 25.9% vs 14.2% placebo (p<0.001)
+- LDL-C reduction: -16%
+- Liver fat reduction: -52% by MRI-PDFF
+
+Safety:
+- Diarrhea (27% vs 14% placebo)
+- Nausea (20% vs 10% placebo)
+- No liver-related serious adverse events
+- Thyroid hormone levels monitored (TSH suppression expected)
+
+Conclusion: First FDA-approved drug for NASH (March 2024). Addresses significant unmet need in a disease affecting 6-8 million Americans with fibrotic NASH. Commercial launch ongoing.
+

@@ -1,0 +1,33 @@
+---
+id: trial_003
+type: clinical_trial
+topic: Migraine prevention
+disease: Chronic migraine
+molecule: Atogepant
+phase: Phase 3
+status: Completed
+---
+
+Trial: PROGRESS - Atogepant for Chronic Migraine Prevention
+
+Sponsor: AbbVie
+Enrollment: 778 patients
+Duration: 12 weeks
+Population: Adults with chronic migraine (≥15 headache days/month)
+
+Primary Endpoint: Change in mean monthly migraine days (MMD)
+
+Results:
+- Atogepant 60mg BID: -7.5 MMD reduction vs -5.1 placebo (p<0.001)
+- ≥50% reduction in MMD: 41% vs 26% placebo
+- Improvement in Migraine-Specific Quality of Life questionnaire
+
+Safety:
+- Constipation (11% vs 3% placebo)
+- Nausea (8% vs 4% placebo)
+- Weight decrease reported in 4%
+- Hepatic safety: No ALT elevations >3x ULN
+- No drug interactions with oral contraceptives
+
+Conclusion: First oral CGRP antagonist approved for chronic migraine prevention. Offers convenience advantage over injectable anti-CGRP antibodies. Approved September 2023.
+

@@ -1,0 +1,12 @@
+---
+id: paper_010
+type: paper
+topic: Bispecific antibodies
+disease: Multiple myeloma
+molecule: Teclistamab
+---
+
+Title: Teclistamab in Relapsed/Refractory Multiple Myeloma: Updated Phase II Results
+
+Abstract: This phase I/II study evaluated teclistamab, a BCMAxCD3 bispecific antibody, in 165 patients with triple-class refractory multiple myeloma (median 5 prior lines of therapy). Overall response rate was 63%, with complete response or better in 39.4%. Median duration of response was 18.4 months. Median progression-free survival was 11.3 months. Cytokine release syndrome occurred in 72% (grade ≥3 in 0.6%). Neurotoxicity occurred in 14.2% (grade ≥3 in 1.2%). Infections were common (76%), including grade ≥3 infections in 45%. Hypogammaglobulinemia requiring immunoglobulin replacement occurred in 78%. These results establish teclistamab as an effective option for heavily pretreated myeloma, though infection management remains a critical concern for clinical implementation.
+

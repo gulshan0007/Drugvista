@@ -1,0 +1,12 @@
+---
+id: paper_005
+type: paper
+topic: CRISPR gene therapy
+disease: Sickle cell disease
+molecule: Exagamglogene autotemcel
+---
+
+Title: CRISPR-Cas9 Gene Editing for Transfusion-Dependent Sickle Cell Disease
+
+Abstract: We present 24-month outcomes from a single-arm trial of exagamglogene autotemcel (exa-cel), a CRISPR-Cas9 gene-edited cell therapy, in 44 patients with severe sickle cell disease. The therapy edits the BCL11A gene to reactivate fetal hemoglobin production. At 24 months, 93% of evaluable patients were free from vaso-occlusive crises. Median total hemoglobin increased from 8.5 to 12.8 g/dL. Fetal hemoglobin comprised 40-50% of total hemoglobin. All patients became transfusion-independent. Myeloablative conditioning with busulfan was required, with expected toxicities including neutropenic fever (100%) and mucositis (85%). No off-target editing events were detected by whole-genome sequencing. This represents a potentially curative approach for sickle cell disease, though accessibility concerns remain due to manufacturing complexity and cost.
+

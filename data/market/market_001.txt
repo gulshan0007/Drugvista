@@ -1,0 +1,31 @@
+---
+id: market_001
+type: market
+topic: GLP-1 market dynamics
+disease: Obesity, Diabetes
+molecule: Semaglutide, Tirzepatide
+---
+
+Market Intelligence: GLP-1 Agonist Market Explosion Reshapes Pharma Landscape
+
+Date: November 2024
+
+Market Size: The GLP-1 receptor agonist market reached $50 billion in 2024, projected to exceed $130 billion by 2030 (CAGR 17.2%).
+
+Key Players:
+- Novo Nordisk (Wegovy/Ozempic): 65% market share, supply constraints ongoing
+- Eli Lilly (Mounjaro/Zepbound): Rapidly gaining share, 28% of market
+- Emerging competitors: Amgen, Pfizer, Roche in development
+
+Supply Chain Analysis:
+- Global peptide manufacturing capacity insufficient
+- New facilities require 3-5 years to operationalize
+- API shortage expected through 2026
+
+Commercial Dynamics:
+- Payer pushback on obesity indication coverage
+- Out-of-pocket costs $1,000-1,500/month limiting access
+- Compounding pharmacy controversy ongoing
+
+Investment Signal: STRONG BUY for established players. Pipeline entrants face high bar. Watch for oral GLP-1 formulations (Rybelsus) gaining traction.
+

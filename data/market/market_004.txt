@@ -1,0 +1,36 @@
+---
+id: market_004
+type: market
+topic: NASH/MASH therapeutic market
+disease: Nonalcoholic steatohepatitis
+molecule: Resmetirom
+---
+
+Market Intelligence: NASH Market Finally Opens with First Approval
+
+Date: September 2024
+
+Market Catalyst: Rezdiffra (resmetirom) FDA approval March 2024 unlocked the $3-5 billion near-term NASH market opportunity.
+
+Commercial Launch Analysis:
+- Madrigal pricing: $47,400/year wholesale
+- Launch trajectory: $82M Q2 2024 sales (above expectations)
+- Specialty pharmacy distribution with patient support programs
+
+Competitive Landscape:
+- Akero (efruxifermin): Phase 3 ongoing, potential 2026 approval
+- 89bio (pegozafermin): Strong Phase 2b data, partnered with Lilly
+- Novo Nordisk: Semaglutide exploring NASH indication
+
+Payer Dynamics:
+- Prior authorization required (biopsy-confirmed NASH F2-F3)
+- Limited formulary coverage initially
+- Real-world adherence data critical for coverage expansion
+
+Market Sizing:
+- 6-8 million Americans with fibrotic NASH
+- Diagnosis rates <5% currently
+- Market growth depends on disease awareness and screening
+
+Investment Signal: MODERATE. First-mover advantage for Madrigal but competitive pressure coming. Market conditioning required.
+

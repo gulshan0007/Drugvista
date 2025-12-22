@@ -1,0 +1,12 @@
+---
+id: paper_003
+type: paper
+topic: PCSK9 inhibitors
+disease: Hypercholesterolemia
+molecule: Evolocumab
+---
+
+Title: Efficacy and Safety of Evolocumab in Statin-Intolerant Patients: Real-World Evidence
+
+Abstract: This observational study evaluates evolocumab in 2,340 statin-intolerant patients with familial hypercholesterolemia or atherosclerotic cardiovascular disease. After 24 weeks, mean LDL-C reduction was 58.2% from baseline. Target LDL-C levels (<70 mg/dL) were achieved in 67% of high-risk patients. Injection site reactions occurred in 4.2% of patients. No significant hepatotoxicity or myopathy was observed. Notably, 89% of patients remained on therapy at 1 year, indicating good tolerability. Cost remains a significant barrier with annual treatment costs exceeding $14,000. The study confirms evolocumab as an effective alternative for patients unable to tolerate statins, though economic considerations limit broader adoption.
+

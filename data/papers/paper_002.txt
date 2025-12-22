@@ -1,0 +1,12 @@
+---
+id: paper_002
+type: paper
+topic: CAR-T cell therapy
+disease: B-cell lymphoma
+molecule: Tisagenlecleucel
+---
+
+Title: Long-term Outcomes of CAR-T Cell Therapy in Relapsed B-cell Lymphoma
+
+Abstract: We report 5-year follow-up data from a phase II study of tisagenlecleucel in relapsed or refractory diffuse large B-cell lymphoma. Of 115 patients who received infusion, complete response was achieved in 40% at 3 months. Five-year overall survival was 42% with a plateau in the survival curve observed after 12 months, suggesting durable remissions. Cytokine release syndrome occurred in 58% of patients (grade ≥3 in 22%). Neurotoxicity was observed in 21% (grade ≥3 in 12%). Late effects included prolonged B-cell aplasia requiring immunoglobulin replacement in 68% of long-term survivors. These results demonstrate that CAR-T therapy can provide lasting remissions in a subset of patients with aggressive lymphoma who have exhausted conventional options.
+

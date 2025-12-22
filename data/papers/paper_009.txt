@@ -1,0 +1,12 @@
+---
+id: paper_009
+type: paper
+topic: SGLT2 inhibitors
+disease: Heart failure
+molecule: Dapagliflozin
+---
+
+Title: Dapagliflozin in Heart Failure with Preserved Ejection Fraction: Subgroup Analysis by Diabetes Status
+
+Abstract: This analysis examines dapagliflozin outcomes in 6,263 patients with heart failure and ejection fraction >40% from the DELIVER trial, stratified by diabetes status. In patients without diabetes (n=3,512), dapagliflozin reduced the composite of cardiovascular death or worsening heart failure by 18% (HR 0.82, p=0.008). In patients with diabetes (n=2,751), risk reduction was 20% (HR 0.80, p=0.003). Kansas City Cardiomyopathy Questionnaire scores improved similarly in both groups. Volume depletion events were more common with dapagliflozin (7.2% vs 5.1%) but rarely led to discontinuation. Diabetic ketoacidosis occurred in 0.1% of diabetic patients. These findings establish SGLT2 inhibitors as beneficial in HFpEF regardless of diabetes status, expanding the indicated population substantially.
+

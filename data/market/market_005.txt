@@ -1,0 +1,36 @@
+---
+id: market_005
+type: market
+topic: Alzheimer's therapeutics market
+disease: Alzheimer's disease
+molecule: Lecanemab, Donanemab
+---
+
+Market Intelligence: Alzheimer's Disease Modifying Therapy Market Launch Challenges
+
+Date: November 2024
+
+Market Context: Anti-amyloid antibodies represent first disease-modifying therapies but face unprecedented commercialization hurdles.
+
+Lecanemab (Leqembi) Launch Status:
+- Biogen/Eisai pricing: $26,500/year
+- Uptake slower than expected: $500M 2024 (vs $1B forecast)
+- Infrastructure gap: ARIA monitoring requires specialized MRI capacity
+
+Access Challenges:
+- CMS coverage with evidence development (CED) limits access
+- Amyloid PET or CSF biomarker confirmation required
+- APOE4 genotyping complicating patient selection
+
+Healthcare System Readiness:
+- Infusion center capacity constraints
+- Neurologist shortage for ARIA monitoring
+- Patient identification in primary care limited
+
+Donanemab Outlook:
+- Lilly pricing expected similar to Leqembi
+- Dosing advantage: Potential to stop after amyloid clearance
+- FDA approval expected late 2024
+
+Investment Signal: LONG-TERM POSITIVE but near-term challenges significant. Healthcare infrastructure investment required for market realization. Watch for diagnostic simplification technologies.
+

@@ -1,0 +1,32 @@
+---
+id: market_003
+type: market
+topic: Oncology competitive landscape
+disease: Various cancers
+molecule: Multiple
+---
+
+Market Intelligence: Oncology Market Consolidation and ADC Revolution
+
+Date: December 2024
+
+Market Size: Global oncology market reached $220 billion in 2024, representing 20% of total pharma market.
+
+Hot Segment - Antibody-Drug Conjugates (ADCs):
+- $12 billion market in 2024, projected $35 billion by 2030
+- Enhertu (Daiichi Sankyo/AstraZeneca): Blockbuster trajectory
+- Major M&A: Pfizer acquired Seagen for $43 billion
+- 100+ ADCs in clinical development
+
+Checkpoint Inhibitor Maturation:
+- PD-1/PD-L1 market growth slowing (6% CAGR vs 25% historically)
+- Keytruda patent cliff 2028 creating opportunity window
+- Biosimilar competition expected post-2028
+
+Emerging Modalities:
+- Bispecific antibodies: Rapid approvals in hematologic malignancies
+- Radiopharmaceuticals: Novartis investing heavily
+- TIL therapy: Lifileucel approved for melanoma
+
+Investment Signal: POSITIVE on ADC segment. Defensive on checkpoint inhibitors. Watch Merck's Keytruda lifecycle management strategy.
+

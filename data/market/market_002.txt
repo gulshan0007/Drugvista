@@ -1,0 +1,36 @@
+---
+id: market_002
+type: market
+topic: Cell and gene therapy commercialization
+disease: Various genetic diseases
+molecule: Various
+---
+
+Market Intelligence: Cell and Gene Therapy Market Faces Reimbursement Reality Check
+
+Date: October 2024
+
+Market Overview: Cell and gene therapy market valued at $12 billion in 2024, but growth slower than projected due to commercial challenges.
+
+Pricing Pressures:
+- Zolgensma ($2.1M): Novartis reports declining new patient starts
+- Bluebird Bio: Exited European market due to pricing negotiations
+- Sarepta's Elevidys ($3.2M): Limited uptake despite approval
+
+Reimbursement Models:
+- Outcomes-based agreements gaining traction
+- CMS exploring cell/gene therapy payment models
+- Medicaid programs struggling with budget impact
+
+Manufacturing Challenges:
+- Autologous therapies: 3-4 week vein-to-vein time
+- 10-15% manufacturing failure rates
+- Quality control remains labor-intensive
+
+Strategic Shifts:
+- Companies pivoting to allogeneic (off-the-shelf) approaches
+- In-vivo gene therapy reducing manufacturing complexity
+- CRISPR companies positioning for lower-cost delivery
+
+Investment Signal: CAUTIOUS. High scientific promise but commercial execution remains challenging. Focus on companies with strong manufacturing capabilities.
+

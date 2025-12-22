@@ -1,0 +1,12 @@
+---
+id: paper_006
+type: paper
+topic: PD-1 inhibitors
+disease: Non-small cell lung cancer
+molecule: Pembrolizumab
+---
+
+Title: First-Line Pembrolizumab Plus Chemotherapy in Advanced NSCLC: Updated Survival Analysis
+
+Abstract: We report 4-year survival data from the KEYNOTE-189 trial of pembrolizumab plus platinum-pemetrexed chemotherapy in metastatic non-squamous NSCLC. Median overall survival was 22.0 months in the pembrolizumab-combination group versus 10.6 months with chemotherapy alone (HR 0.60). Four-year OS rates were 31% versus 16%. Patients with PD-L1 TPS ≥50% showed the greatest benefit (4-year OS 42%). Treatment-related grade 3-5 adverse events occurred in 72% of patients, with immune-mediated events in 27%. Pneumonitis (grade ≥3) occurred in 5.8%. The combination has become standard of care regardless of PD-L1 status, though biomarker-driven patient selection could further optimize outcomes.
+

@@ -1,0 +1,12 @@
+---
+id: paper_007
+type: paper
+topic: JAK inhibitors
+disease: Rheumatoid arthritis
+molecule: Tofacitinib
+---
+
+Title: Cardiovascular and Malignancy Risk with JAK Inhibitors: Post-Marketing Surveillance Analysis
+
+Abstract: This post-marketing analysis examines cardiovascular and malignancy signals with tofacitinib in 25,000 rheumatoid arthritis patients. Major adverse cardiovascular events occurred at a rate of 1.1 per 100 patient-years, compared to 0.8 with TNF inhibitors (HR 1.33, 95% CI 1.01-1.75). Malignancies occurred at 1.3 per 100 patient-years versus 1.0 with TNF inhibitors (HR 1.28, 95% CI 1.04-1.58). Lung cancer and lymphoma showed the highest excess risk. Venous thromboembolism occurred at 0.6 versus 0.3 per 100 patient-years. Risk was concentrated in patients over 65 with cardiovascular risk factors. These findings led to FDA black box warnings and repositioning of JAK inhibitors as second-line therapy after TNF inhibitor failure.
+

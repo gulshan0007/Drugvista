@@ -1,0 +1,12 @@
+---
+id: paper_008
+type: paper
+topic: mRNA vaccines
+disease: Respiratory syncytial virus
+molecule: mRNA-1345
+---
+
+Title: Efficacy of mRNA-1345 Vaccine Against RSV in Older Adults: Phase III Results
+
+Abstract: This phase III trial evaluated mRNA-1345, an mRNA vaccine encoding RSV prefusion F glycoprotein, in 35,541 adults aged ≥60 years. Vaccine efficacy against RSV lower respiratory tract disease was 83.7% (95% CI 66.1-92.2). Protection against RSV-associated acute respiratory infection was 68.4%. Efficacy was consistent across age subgroups and participants with comorbidities. Local reactions (pain, swelling) occurred in 58% of vaccine recipients. Systemic reactions including fatigue (31%), headache (27%), and myalgia (25%) were common but generally mild. No safety signals for myocarditis or Guillain-Barré syndrome were detected. The vaccine represents a significant advance for RSV prevention in older adults, a population with high RSV-related hospitalization and mortality.
+

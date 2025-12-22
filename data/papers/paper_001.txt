@@ -1,0 +1,12 @@
+---
+id: paper_001
+type: paper
+topic: GLP-1 receptor agonists
+disease: Type 2 Diabetes
+molecule: Semaglutide
+---
+
+Title: Cardiovascular Outcomes with Semaglutide in Type 2 Diabetes: A Meta-Analysis
+
+Abstract: This meta-analysis evaluates cardiovascular outcomes in patients with type 2 diabetes treated with semaglutide. We analyzed data from 12 randomized controlled trials comprising 15,842 patients. Semaglutide demonstrated a 24% reduction in major adverse cardiovascular events (MACE) compared to placebo (HR 0.76, 95% CI 0.68-0.85). The drug showed significant reductions in non-fatal myocardial infarction (21%), non-fatal stroke (18%), and cardiovascular death (15%). Weight reduction averaged 5.2 kg over 52 weeks. Gastrointestinal adverse events were the most common side effects, occurring in 34% of patients. The findings support semaglutide as a cardioprotective agent in diabetic populations with established cardiovascular disease or high cardiovascular risk.
+

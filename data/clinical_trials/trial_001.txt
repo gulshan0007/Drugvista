@@ -1,0 +1,36 @@
+---
+id: trial_001
+type: clinical_trial
+topic: Obesity treatment
+disease: Obesity
+molecule: Tirzepatide
+phase: Phase 3
+status: Completed
+---
+
+Trial: SURMOUNT-1 - Tirzepatide for Obesity Management
+
+Sponsor: Eli Lilly
+Enrollment: 2,539 patients
+Duration: 72 weeks
+Population: Adults with BMI ≥30 or ≥27 with weight-related comorbidity
+
+Primary Endpoint: Percent change in body weight from baseline
+Results: 
+- Tirzepatide 5mg: -15.0% weight reduction
+- Tirzepatide 10mg: -19.5% weight reduction  
+- Tirzepatide 15mg: -20.9% weight reduction
+- Placebo: -3.1% weight reduction
+
+Secondary Endpoints:
+- ≥5% weight loss achieved by 91% (15mg) vs 35% (placebo)
+- ≥20% weight loss achieved by 57% (15mg) vs 3% (placebo)
+- Improvements in waist circumference, blood pressure, lipids
+
+Safety:
+- Nausea (24-33%), diarrhea (18-23%), constipation (11-17%)
+- Discontinuation due to AEs: 4.3-7.1% vs 2.6% placebo
+- No pancreatitis signal detected
+
+Conclusion: Tirzepatide demonstrates unprecedented weight loss efficacy in obesity, positioning it as a potential best-in-class therapy. FDA approval received May 2024.
+

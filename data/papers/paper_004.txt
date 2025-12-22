@@ -1,0 +1,12 @@
+---
+id: paper_004
+type: paper
+topic: Alzheimer's disease
+disease: Alzheimer's disease
+molecule: Lecanemab
+---
+
+Title: Amyloid Clearance and Cognitive Outcomes with Lecanemab in Early Alzheimer's Disease
+
+Abstract: This phase III trial evaluated lecanemab, an anti-amyloid-beta antibody, in 1,795 patients with early Alzheimer's disease. At 18 months, lecanemab reduced brain amyloid burden by 59% on PET imaging. Clinical Dementia Rating-Sum of Boxes showed 27% less decline compared to placebo (p<0.001). ADAS-Cog14 scores improved by 26% relative to placebo. Amyloid-related imaging abnormalities (ARIA) occurred in 21.3% of patients, with ARIA-E (edema) in 12.6% and ARIA-H (hemorrhage) in 17.3%. Three deaths were potentially related to treatment, all in patients on anticoagulants who developed ARIA-H. The modest but statistically significant cognitive benefits must be weighed against safety concerns, particularly in patients with cerebral amyloid angiopathy or requiring anticoagulation.
+

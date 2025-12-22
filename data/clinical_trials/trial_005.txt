@@ -1,0 +1,32 @@
+---
+id: trial_005
+type: clinical_trial
+topic: Duchenne muscular dystrophy
+disease: Duchenne muscular dystrophy
+molecule: Delandistrogene moxeparvovec
+phase: Phase 3
+status: Ongoing
+---
+
+Trial: EMBARK - Gene Therapy for Duchenne Muscular Dystrophy
+
+Sponsor: Sarepta Therapeutics
+Enrollment: 126 patients (ages 4-7)
+Duration: 52 weeks primary, ongoing long-term
+Population: Ambulatory boys with DMD, any dystrophin mutation
+
+Primary Endpoint: North Star Ambulatory Assessment (NSAA) change
+
+Preliminary Results:
+- NSAA improvement: +2.6 points vs +0.9 placebo at 52 weeks (p<0.001)
+- Time to rise improvement: -1.3 seconds vs -0.2 placebo
+- Micro-dystrophin expression: 54% of normal at muscle biopsy
+
+Safety:
+- Immune-mediated myositis in 3 patients (treated with steroids)
+- Liver enzyme elevations (transient, resolved)
+- Vomiting (32%), pyrexia (27%)
+- One patient death from cardiac adverse event (under investigation)
+
+Conclusion: First gene therapy showing functional improvement in DMD. FDA accelerated approval granted June 2023. Long-term durability and safety data critical for full approval pathway. Cost approximately $3.2 million per treatment.
+

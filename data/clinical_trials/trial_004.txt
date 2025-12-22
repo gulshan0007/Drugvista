@@ -1,0 +1,33 @@
+---
+id: trial_004
+type: clinical_trial
+topic: Alzheimer's treatment
+disease: Alzheimer's disease
+molecule: Donanemab
+phase: Phase 3
+status: Completed
+---
+
+Trial: TRAILBLAZER-ALZ 2 - Donanemab in Early Symptomatic Alzheimer's
+
+Sponsor: Eli Lilly
+Enrollment: 1,736 patients
+Duration: 76 weeks
+Population: Early symptomatic Alzheimer's with amyloid and tau pathology
+
+Primary Endpoint: Change in integrated Alzheimer's Disease Rating Scale (iADRS)
+
+Results:
+- Donanemab slowed decline by 35% vs placebo on iADRS (p<0.001)
+- CDR-SB decline slowed by 36%
+- 47% of patients achieved amyloid clearance by 6 months
+- 52% discontinued treatment after achieving amyloid clearance
+
+Safety Concerns:
+- ARIA-E (edema): 24% (symptomatic in 6%)
+- ARIA-H (microhemorrhages): 31%
+- Three deaths possibly treatment-related
+- APOE4 homozygotes at highest ARIA risk
+
+Conclusion: Demonstrates clinical benefit of amyloid clearance but safety concerns require careful patient selection. Expected FDA decision in 2024. Contraindicated with anticoagulants.
+

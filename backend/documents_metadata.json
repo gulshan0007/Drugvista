@@ -1,0 +1,252 @@
+[
+  {
+    "metadata": {
+      "id": "paper_001",
+      "type": "paper",
+      "topic": "GLP-1 receptor agonists",
+      "disease": "Type 2 Diabetes",
+      "molecule": "Semaglutide",
+      "source_type": "papers"
+    },
+    "content": "Title: Cardiovascular Outcomes with Semaglutide in Type 2 Diabetes: A Meta-Analysis\n\nAbstract: This meta-analysis evaluates cardiovascular outcomes in patients with type 2 diabetes treated with semaglutide. We analyzed data from 12 randomized controlled trials comprising 15,842 patients. Semaglutide demonstrated a 24% reduction in major adverse cardiovascular events (MACE) compared to placebo (HR 0.76, 95% CI 0.68-0.85). The drug showed significant reductions in non-fatal myocardial infarction (21%), non-fatal stroke (18%), and cardiovascular death (15%). Weight reduction averaged 5.2 kg over 52 weeks. Gastrointestinal adverse events were the most common side effects, occurring in 34% of patients. The findings support semaglutide as a cardioprotective agent in diabetic populations with established cardiovascular disease or high cardiovascular risk.",
+    "file_path": "C:\\Users\\DELL\\Desktop\\Drugvista\\data\\papers\\paper_001.txt"
+  },
+  {
+    "metadata": {
+      "id": "paper_002",
+      "type": "paper",
+      "topic": "CAR-T cell therapy",
+      "disease": "B-cell lymphoma",
+      "molecule": "Tisagenlecleucel",
+      "source_type": "papers"
+    },
+    "content": "Title: Long-term Outcomes of CAR-T Cell Therapy in Relapsed B-cell Lymphoma\n\nAbstract: We report 5-year follow-up data from a phase II study of tisagenlecleucel in relapsed or refractory diffuse large B-cell lymphoma. Of 115 patients who received infusion, complete response was achieved in 40% at 3 months. Five-year overall survival was 42% with a plateau in the survival curve observed after 12 months, suggesting durable remissions. Cytokine release syndrome occurred in 58% of patients (grade \u22653 in 22%). Neurotoxicity was observed in 21% (grade \u22653 in 12%). Late effects included prolonged B-cell aplasia requiring immunoglobulin replacement in 68% of long-term survivors. These results demonstrate that CAR-T therapy can provide lasting remissions in a subset of patients with aggressive lymphoma who have exhausted conventional options.",
+    "file_path": "C:\\Users\\DELL\\Desktop\\Drugvista\\data\\papers\\paper_002.txt"
+  },
+  {
+    "metadata": {
+      "id": "paper_003",
+      "type": "paper",
+      "topic": "PCSK9 inhibitors",
+      "disease": "Hypercholesterolemia",
+      "molecule": "Evolocumab",
+      "source_type": "papers"
+    },
+    "content": "Title: Efficacy and Safety of Evolocumab in Statin-Intolerant Patients: Real-World Evidence\n\nAbstract: This observational study evaluates evolocumab in 2,340 statin-intolerant patients with familial hypercholesterolemia or atherosclerotic cardiovascular disease. After 24 weeks, mean LDL-C reduction was 58.2% from baseline. Target LDL-C levels (<70 mg/dL) were achieved in 67% of high-risk patients. Injection site reactions occurred in 4.2% of patients. No significant hepatotoxicity or myopathy was observed. Notably, 89% of patients remained on therapy at 1 year, indicating good tolerability. Cost remains a significant barrier with annual treatment costs exceeding $14,000. The study confirms evolocumab as an effective alternative for patients unable to tolerate statins, though economic considerations limit broader adoption.",
+    "file_path": "C:\\Users\\DELL\\Desktop\\Drugvista\\data\\papers\\paper_003.txt"
+  },
+  {
+    "metadata": {
+      "id": "paper_004",
+      "type": "paper",
+      "topic": "Alzheimer's disease",
+      "disease": "Alzheimer's disease",
+      "molecule": "Lecanemab",
+      "source_type": "papers"
+    },
+    "content": "Title: Amyloid Clearance and Cognitive Outcomes with Lecanemab in Early Alzheimer's Disease\n\nAbstract: This phase III trial evaluated lecanemab, an anti-amyloid-beta antibody, in 1,795 patients with early Alzheimer's disease. At 18 months, lecanemab reduced brain amyloid burden by 59% on PET imaging. Clinical Dementia Rating-Sum of Boxes showed 27% less decline compared to placebo (p<0.001). ADAS-Cog14 scores improved by 26% relative to placebo. Amyloid-related imaging abnormalities (ARIA) occurred in 21.3% of patients, with ARIA-E (edema) in 12.6% and ARIA-H (hemorrhage) in 17.3%. Three deaths were potentially related to treatment, all in patients on anticoagulants who developed ARIA-H. The modest but statistically significant cognitive benefits must be weighed against safety concerns, particularly in patients with cerebral amyloid angiopathy or requiring anticoagulation.",
+    "file_path": "C:\\Users\\DELL\\Desktop\\Drugvista\\data\\papers\\paper_004.txt"
+  },
+  {
+    "metadata": {
+      "id": "paper_005",
+      "type": "paper",
+      "topic": "CRISPR gene therapy",
+      "disease": "Sickle cell disease",
+      "molecule": "Exagamglogene autotemcel",
+      "source_type": "papers"
+    },
+    "content": "Title: CRISPR-Cas9 Gene Editing for Transfusion-Dependent Sickle Cell Disease\n\nAbstract: We present 24-month outcomes from a single-arm trial of exagamglogene autotemcel (exa-cel), a CRISPR-Cas9 gene-edited cell therapy, in 44 patients with severe sickle cell disease. The therapy edits the BCL11A gene to reactivate fetal hemoglobin production. At 24 months, 93% of evaluable patients were free from vaso-occlusive crises. Median total hemoglobin increased from 8.5 to 12.8 g/dL. Fetal hemoglobin comprised 40-50% of total hemoglobin. All patients became transfusion-independent. Myeloablative conditioning with busulfan was required, with expected toxicities including neutropenic fever (100%) and mucositis (85%). No off-target editing events were detected by whole-genome sequencing. This represents a potentially curative approach for sickle cell disease, though accessibility concerns remain due to manufacturing complexity and cost.",
+    "file_path": "C:\\Users\\DELL\\Desktop\\Drugvista\\data\\papers\\paper_005.txt"
+  },
+  {
+    "metadata": {
+      "id": "paper_006",
+      "type": "paper",
+      "topic": "PD-1 inhibitors",
+      "disease": "Non-small cell lung cancer",
+      "molecule": "Pembrolizumab",
+      "source_type": "papers"
+    },
+    "content": "Title: First-Line Pembrolizumab Plus Chemotherapy in Advanced NSCLC: Updated Survival Analysis\n\nAbstract: We report 4-year survival data from the KEYNOTE-189 trial of pembrolizumab plus platinum-pemetrexed chemotherapy in metastatic non-squamous NSCLC. Median overall survival was 22.0 months in the pembrolizumab-combination group versus 10.6 months with chemotherapy alone (HR 0.60). Four-year OS rates were 31% versus 16%. Patients with PD-L1 TPS \u226550% showed the greatest benefit (4-year OS 42%). Treatment-related grade 3-5 adverse events occurred in 72% of patients, with immune-mediated events in 27%. Pneumonitis (grade \u22653) occurred in 5.8%. The combination has become standard of care regardless of PD-L1 status, though biomarker-driven patient selection could further optimize outcomes.",
+    "file_path": "C:\\Users\\DELL\\Desktop\\Drugvista\\data\\papers\\paper_006.txt"
+  },
+  {
+    "metadata": {
+      "id": "paper_007",
+      "type": "paper",
+      "topic": "JAK inhibitors",
+      "disease": "Rheumatoid arthritis",
+      "molecule": "Tofacitinib",
+      "source_type": "papers"
+    },
+    "content": "Title: Cardiovascular and Malignancy Risk with JAK Inhibitors: Post-Marketing Surveillance Analysis\n\nAbstract: This post-marketing analysis examines cardiovascular and malignancy signals with tofacitinib in 25,000 rheumatoid arthritis patients. Major adverse cardiovascular events occurred at a rate of 1.1 per 100 patient-years, compared to 0.8 with TNF inhibitors (HR 1.33, 95% CI 1.01-1.75). Malignancies occurred at 1.3 per 100 patient-years versus 1.0 with TNF inhibitors (HR 1.28, 95% CI 1.04-1.58). Lung cancer and lymphoma showed the highest excess risk. Venous thromboembolism occurred at 0.6 versus 0.3 per 100 patient-years. Risk was concentrated in patients over 65 with cardiovascular risk factors. These findings led to FDA black box warnings and repositioning of JAK inhibitors as second-line therapy after TNF inhibitor failure.",
+    "file_path": "C:\\Users\\DELL\\Desktop\\Drugvista\\data\\papers\\paper_007.txt"
+  },
+  {
+    "metadata": {
+      "id": "paper_008",
+      "type": "paper",
+      "topic": "mRNA vaccines",
+      "disease": "Respiratory syncytial virus",
+      "molecule": "mRNA-1345",
+      "source_type": "papers"
+    },
+    "content": "Title: Efficacy of mRNA-1345 Vaccine Against RSV in Older Adults: Phase III Results\n\nAbstract: This phase III trial evaluated mRNA-1345, an mRNA vaccine encoding RSV prefusion F glycoprotein, in 35,541 adults aged \u226560 years. Vaccine efficacy against RSV lower respiratory tract disease was 83.7% (95% CI 66.1-92.2). Protection against RSV-associated acute respiratory infection was 68.4%. Efficacy was consistent across age subgroups and participants with comorbidities. Local reactions (pain, swelling) occurred in 58% of vaccine recipients. Systemic reactions including fatigue (31%), headache (27%), and myalgia (25%) were common but generally mild. No safety signals for myocarditis or Guillain-Barr\u00e9 syndrome were detected. The vaccine represents a significant advance for RSV prevention in older adults, a population with high RSV-related hospitalization and mortality.",
+    "file_path": "C:\\Users\\DELL\\Desktop\\Drugvista\\data\\papers\\paper_008.txt"
+  },
+  {
+    "metadata": {
+      "id": "paper_009",
+      "type": "paper",
+      "topic": "SGLT2 inhibitors",
+      "disease": "Heart failure",
+      "molecule": "Dapagliflozin",
+      "source_type": "papers"
+    },
+    "content": "Title: Dapagliflozin in Heart Failure with Preserved Ejection Fraction: Subgroup Analysis by Diabetes Status\n\nAbstract: This analysis examines dapagliflozin outcomes in 6,263 patients with heart failure and ejection fraction >40% from the DELIVER trial, stratified by diabetes status. In patients without diabetes (n=3,512), dapagliflozin reduced the composite of cardiovascular death or worsening heart failure by 18% (HR 0.82, p=0.008). In patients with diabetes (n=2,751), risk reduction was 20% (HR 0.80, p=0.003). Kansas City Cardiomyopathy Questionnaire scores improved similarly in both groups. Volume depletion events were more common with dapagliflozin (7.2% vs 5.1%) but rarely led to discontinuation. Diabetic ketoacidosis occurred in 0.1% of diabetic patients. These findings establish SGLT2 inhibitors as beneficial in HFpEF regardless of diabetes status, expanding the indicated population substantially.",
+    "file_path": "C:\\Users\\DELL\\Desktop\\Drugvista\\data\\papers\\paper_009.txt"
+  },
+  {
+    "metadata": {
+      "id": "paper_010",
+      "type": "paper",
+      "topic": "Bispecific antibodies",
+      "disease": "Multiple myeloma",
+      "molecule": "Teclistamab",
+      "source_type": "papers"
+    },
+    "content": "Title: Teclistamab in Relapsed/Refractory Multiple Myeloma: Updated Phase II Results\n\nAbstract: This phase I/II study evaluated teclistamab, a BCMAxCD3 bispecific antibody, in 165 patients with triple-class refractory multiple myeloma (median 5 prior lines of therapy). Overall response rate was 63%, with complete response or better in 39.4%. Median duration of response was 18.4 months. Median progression-free survival was 11.3 months. Cytokine release syndrome occurred in 72% (grade \u22653 in 0.6%). Neurotoxicity occurred in 14.2% (grade \u22653 in 1.2%). Infections were common (76%), including grade \u22653 infections in 45%. Hypogammaglobulinemia requiring immunoglobulin replacement occurred in 78%. These results establish teclistamab as an effective option for heavily pretreated myeloma, though infection management remains a critical concern for clinical implementation.",
+    "file_path": "C:\\Users\\DELL\\Desktop\\Drugvista\\data\\papers\\paper_010.txt"
+  },
+  {
+    "metadata": {
+      "id": "trial_001",
+      "type": "clinical_trial",
+      "topic": "Obesity treatment",
+      "disease": "Obesity",
+      "molecule": "Tirzepatide",
+      "phase": "Phase 3",
+      "status": "Completed",
+      "source_type": "clinical_trials"
+    },
+    "content": "Trial: SURMOUNT-1 - Tirzepatide for Obesity Management\n\nSponsor: Eli Lilly\nEnrollment: 2,539 patients\nDuration: 72 weeks\nPopulation: Adults with BMI \u226530 or \u226527 with weight-related comorbidity\n\nPrimary Endpoint: Percent change in body weight from baseline\nResults: \n- Tirzepatide 5mg: -15.0% weight reduction\n- Tirzepatide 10mg: -19.5% weight reduction  \n- Tirzepatide 15mg: -20.9% weight reduction\n- Placebo: -3.1% weight reduction\n\nSecondary Endpoints:\n- \u22655% weight loss achieved by 91% (15mg) vs 35% (placebo)\n- \u226520% weight loss achieved by 57% (15mg) vs 3% (placebo)\n- Improvements in waist circumference, blood pressure, lipids\n\nSafety:\n- Nausea (24-33%), diarrhea (18-23%), constipation (11-17%)\n- Discontinuation due to AEs: 4.3-7.1% vs 2.6% placebo\n- No pancreatitis signal detected\n\nConclusion: Tirzepatide demonstrates unprecedented weight loss efficacy in obesity, positioning it as a potential best-in-class therapy. FDA approval received May 2024.",
+    "file_path": "C:\\Users\\DELL\\Desktop\\Drugvista\\data\\clinical_trials\\trial_001.txt"
+  },
+  {
+    "metadata": {
+      "id": "trial_002",
+      "type": "clinical_trial",
+      "topic": "NASH/MASH treatment",
+      "disease": "Nonalcoholic steatohepatitis",
+      "molecule": "Resmetirom",
+      "phase": "Phase 3",
+      "status": "Completed",
+      "source_type": "clinical_trials"
+    },
+    "content": "Trial: MAESTRO-NASH - Resmetirom for NASH with Liver Fibrosis\n\nSponsor: Madrigal Pharmaceuticals\nEnrollment: 966 patients\nDuration: 52 weeks\nPopulation: Adults with biopsy-confirmed NASH and stage F1B-F3 fibrosis\n\nPrimary Endpoints: \n1. NASH resolution without worsening fibrosis\n2. \u22651 stage fibrosis improvement without NASH worsening\n\nResults (80mg dose):\n- NASH resolution: 29.9% vs 9.7% placebo (p<0.001)\n- Fibrosis improvement: 25.9% vs 14.2% placebo (p<0.001)\n- LDL-C reduction: -16%\n- Liver fat reduction: -52% by MRI-PDFF\n\nSafety:\n- Diarrhea (27% vs 14% placebo)\n- Nausea (20% vs 10% placebo)\n- No liver-related serious adverse events\n- Thyroid hormone levels monitored (TSH suppression expected)\n\nConclusion: First FDA-approved drug for NASH (March 2024). Addresses significant unmet need in a disease affecting 6-8 million Americans with fibrotic NASH. Commercial launch ongoing.",
+    "file_path": "C:\\Users\\DELL\\Desktop\\Drugvista\\data\\clinical_trials\\trial_002.txt"
+  },
+  {
+    "metadata": {
+      "id": "trial_003",
+      "type": "clinical_trial",
+      "topic": "Migraine prevention",
+      "disease": "Chronic migraine",
+      "molecule": "Atogepant",
+      "phase": "Phase 3",
+      "status": "Completed",
+      "source_type": "clinical_trials"
+    },
+    "content": "Trial: PROGRESS - Atogepant for Chronic Migraine Prevention\n\nSponsor: AbbVie\nEnrollment: 778 patients\nDuration: 12 weeks\nPopulation: Adults with chronic migraine (\u226515 headache days/month)\n\nPrimary Endpoint: Change in mean monthly migraine days (MMD)\n\nResults:\n- Atogepant 60mg BID: -7.5 MMD reduction vs -5.1 placebo (p<0.001)\n- \u226550% reduction in MMD: 41% vs 26% placebo\n- Improvement in Migraine-Specific Quality of Life questionnaire\n\nSafety:\n- Constipation (11% vs 3% placebo)\n- Nausea (8% vs 4% placebo)\n- Weight decrease reported in 4%\n- Hepatic safety: No ALT elevations >3x ULN\n- No drug interactions with oral contraceptives\n\nConclusion: First oral CGRP antagonist approved for chronic migraine prevention. Offers convenience advantage over injectable anti-CGRP antibodies. Approved September 2023.",
+    "file_path": "C:\\Users\\DELL\\Desktop\\Drugvista\\data\\clinical_trials\\trial_003.txt"
+  },
+  {
+    "metadata": {
+      "id": "trial_004",
+      "type": "clinical_trial",
+      "topic": "Alzheimer's treatment",
+      "disease": "Alzheimer's disease",
+      "molecule": "Donanemab",
+      "phase": "Phase 3",
+      "status": "Completed",
+      "source_type": "clinical_trials"
+    },
+    "content": "Trial: TRAILBLAZER-ALZ 2 - Donanemab in Early Symptomatic Alzheimer's\n\nSponsor: Eli Lilly\nEnrollment: 1,736 patients\nDuration: 76 weeks\nPopulation: Early symptomatic Alzheimer's with amyloid and tau pathology\n\nPrimary Endpoint: Change in integrated Alzheimer's Disease Rating Scale (iADRS)\n\nResults:\n- Donanemab slowed decline by 35% vs placebo on iADRS (p<0.001)\n- CDR-SB decline slowed by 36%\n- 47% of patients achieved amyloid clearance by 6 months\n- 52% discontinued treatment after achieving amyloid clearance\n\nSafety Concerns:\n- ARIA-E (edema): 24% (symptomatic in 6%)\n- ARIA-H (microhemorrhages): 31%\n- Three deaths possibly treatment-related\n- APOE4 homozygotes at highest ARIA risk\n\nConclusion: Demonstrates clinical benefit of amyloid clearance but safety concerns require careful patient selection. Expected FDA decision in 2024. Contraindicated with anticoagulants.",
+    "file_path": "C:\\Users\\DELL\\Desktop\\Drugvista\\data\\clinical_trials\\trial_004.txt"
+  },
+  {
+    "metadata": {
+      "id": "trial_005",
+      "type": "clinical_trial",
+      "topic": "Duchenne muscular dystrophy",
+      "disease": "Duchenne muscular dystrophy",
+      "molecule": "Delandistrogene moxeparvovec",
+      "phase": "Phase 3",
+      "status": "Ongoing",
+      "source_type": "clinical_trials"
+    },
+    "content": "Trial: EMBARK - Gene Therapy for Duchenne Muscular Dystrophy\n\nSponsor: Sarepta Therapeutics\nEnrollment: 126 patients (ages 4-7)\nDuration: 52 weeks primary, ongoing long-term\nPopulation: Ambulatory boys with DMD, any dystrophin mutation\n\nPrimary Endpoint: North Star Ambulatory Assessment (NSAA) change\n\nPreliminary Results:\n- NSAA improvement: +2.6 points vs +0.9 placebo at 52 weeks (p<0.001)\n- Time to rise improvement: -1.3 seconds vs -0.2 placebo\n- Micro-dystrophin expression: 54% of normal at muscle biopsy\n\nSafety:\n- Immune-mediated myositis in 3 patients (treated with steroids)\n- Liver enzyme elevations (transient, resolved)\n- Vomiting (32%), pyrexia (27%)\n- One patient death from cardiac adverse event (under investigation)\n\nConclusion: First gene therapy showing functional improvement in DMD. FDA accelerated approval granted June 2023. Long-term durability and safety data critical for full approval pathway. Cost approximately $3.2 million per treatment.",
+    "file_path": "C:\\Users\\DELL\\Desktop\\Drugvista\\data\\clinical_trials\\trial_005.txt"
+  },
+  {
+    "metadata": {
+      "id": "market_001",
+      "type": "market",
+      "topic": "GLP-1 market dynamics",
+      "disease": "Obesity, Diabetes",
+      "molecule": "Semaglutide, Tirzepatide",
+      "source_type": "market"
+    },
+    "content": "Market Intelligence: GLP-1 Agonist Market Explosion Reshapes Pharma Landscape\n\nDate: November 2024\n\nMarket Size: The GLP-1 receptor agonist market reached $50 billion in 2024, projected to exceed $130 billion by 2030 (CAGR 17.2%).\n\nKey Players:\n- Novo Nordisk (Wegovy/Ozempic): 65% market share, supply constraints ongoing\n- Eli Lilly (Mounjaro/Zepbound): Rapidly gaining share, 28% of market\n- Emerging competitors: Amgen, Pfizer, Roche in development\n\nSupply Chain Analysis:\n- Global peptide manufacturing capacity insufficient\n- New facilities require 3-5 years to operationalize\n- API shortage expected through 2026\n\nCommercial Dynamics:\n- Payer pushback on obesity indication coverage\n- Out-of-pocket costs $1,000-1,500/month limiting access\n- Compounding pharmacy controversy ongoing\n\nInvestment Signal: STRONG BUY for established players. Pipeline entrants face high bar. Watch for oral GLP-1 formulations (Rybelsus) gaining traction.",
+    "file_path": "C:\\Users\\DELL\\Desktop\\Drugvista\\data\\market\\market_001.txt"
+  },
+  {
+    "metadata": {
+      "id": "market_002",
+      "type": "market",
+      "topic": "Cell and gene therapy commercialization",
+      "disease": "Various genetic diseases",
+      "molecule": "Various",
+      "source_type": "market"
+    },
+    "content": "Market Intelligence: Cell and Gene Therapy Market Faces Reimbursement Reality Check\n\nDate: October 2024\n\nMarket Overview: Cell and gene therapy market valued at $12 billion in 2024, but growth slower than projected due to commercial challenges.\n\nPricing Pressures:\n- Zolgensma ($2.1M): Novartis reports declining new patient starts\n- Bluebird Bio: Exited European market due to pricing negotiations\n- Sarepta's Elevidys ($3.2M): Limited uptake despite approval\n\nReimbursement Models:\n- Outcomes-based agreements gaining traction\n- CMS exploring cell/gene therapy payment models\n- Medicaid programs struggling with budget impact\n\nManufacturing Challenges:\n- Autologous therapies: 3-4 week vein-to-vein time\n- 10-15% manufacturing failure rates\n- Quality control remains labor-intensive\n\nStrategic Shifts:\n- Companies pivoting to allogeneic (off-the-shelf) approaches\n- In-vivo gene therapy reducing manufacturing complexity\n- CRISPR companies positioning for lower-cost delivery\n\nInvestment Signal: CAUTIOUS. High scientific promise but commercial execution remains challenging. Focus on companies with strong manufacturing capabilities.",
+    "file_path": "C:\\Users\\DELL\\Desktop\\Drugvista\\data\\market\\market_002.txt"
+  },
+  {
+    "metadata": {
+      "id": "market_003",
+      "type": "market",
+      "topic": "Oncology competitive landscape",
+      "disease": "Various cancers",
+      "molecule": "Multiple",
+      "source_type": "market"
+    },
+    "content": "Market Intelligence: Oncology Market Consolidation and ADC Revolution\n\nDate: December 2024\n\nMarket Size: Global oncology market reached $220 billion in 2024, representing 20% of total pharma market.\n\nHot Segment - Antibody-Drug Conjugates (ADCs):\n- $12 billion market in 2024, projected $35 billion by 2030\n- Enhertu (Daiichi Sankyo/AstraZeneca): Blockbuster trajectory\n- Major M&A: Pfizer acquired Seagen for $43 billion\n- 100+ ADCs in clinical development\n\nCheckpoint Inhibitor Maturation:\n- PD-1/PD-L1 market growth slowing (6% CAGR vs 25% historically)\n- Keytruda patent cliff 2028 creating opportunity window\n- Biosimilar competition expected post-2028\n\nEmerging Modalities:\n- Bispecific antibodies: Rapid approvals in hematologic malignancies\n- Radiopharmaceuticals: Novartis investing heavily\n- TIL therapy: Lifileucel approved for melanoma\n\nInvestment Signal: POSITIVE on ADC segment. Defensive on checkpoint inhibitors. Watch Merck's Keytruda lifecycle management strategy.",
+    "file_path": "C:\\Users\\DELL\\Desktop\\Drugvista\\data\\market\\market_003.txt"
+  },
+  {
+    "metadata": {
+      "id": "market_004",
+      "type": "market",
+      "topic": "NASH/MASH therapeutic market",
+      "disease": "Nonalcoholic steatohepatitis",
+      "molecule": "Resmetirom",
+      "source_type": "market"
+    },
+    "content": "Market Intelligence: NASH Market Finally Opens with First Approval\n\nDate: September 2024\n\nMarket Catalyst: Rezdiffra (resmetirom) FDA approval March 2024 unlocked the $3-5 billion near-term NASH market opportunity.\n\nCommercial Launch Analysis:\n- Madrigal pricing: $47,400/year wholesale\n- Launch trajectory: $82M Q2 2024 sales (above expectations)\n- Specialty pharmacy distribution with patient support programs\n\nCompetitive Landscape:\n- Akero (efruxifermin): Phase 3 ongoing, potential 2026 approval\n- 89bio (pegozafermin): Strong Phase 2b data, partnered with Lilly\n- Novo Nordisk: Semaglutide exploring NASH indication\n\nPayer Dynamics:\n- Prior authorization required (biopsy-confirmed NASH F2-F3)\n- Limited formulary coverage initially\n- Real-world adherence data critical for coverage expansion\n\nMarket Sizing:\n- 6-8 million Americans with fibrotic NASH\n- Diagnosis rates <5% currently\n- Market growth depends on disease awareness and screening\n\nInvestment Signal: MODERATE. First-mover advantage for Madrigal but competitive pressure coming. Market conditioning required.",
+    "file_path": "C:\\Users\\DELL\\Desktop\\Drugvista\\data\\market\\market_004.txt"
+  },
+  {
+    "metadata": {
+      "id": "market_005",
+      "type": "market",
+      "topic": "Alzheimer's therapeutics market",
+      "disease": "Alzheimer's disease",
+      "molecule": "Lecanemab, Donanemab",
+      "source_type": "market"
+    },
+    "content": "Market Intelligence: Alzheimer's Disease Modifying Therapy Market Launch Challenges\n\nDate: November 2024\n\nMarket Context: Anti-amyloid antibodies represent first disease-modifying therapies but face unprecedented commercialization hurdles.\n\nLecanemab (Leqembi) Launch Status:\n- Biogen/Eisai pricing: $26,500/year\n- Uptake slower than expected: $500M 2024 (vs $1B forecast)\n- Infrastructure gap: ARIA monitoring requires specialized MRI capacity\n\nAccess Challenges:\n- CMS coverage with evidence development (CED) limits access\n- Amyloid PET or CSF biomarker confirmation required\n- APOE4 genotyping complicating patient selection\n\nHealthcare System Readiness:\n- Infusion center capacity constraints\n- Neurologist shortage for ARIA monitoring\n- Patient identification in primary care limited\n\nDonanemab Outlook:\n- Lilly pricing expected similar to Leqembi\n- Dosing advantage: Potential to stop after amyloid clearance\n- FDA approval expected late 2024\n\nInvestment Signal: LONG-TERM POSITIVE but near-term challenges significant. Healthcare infrastructure investment required for market realization. Watch for diagnostic simplification technologies.",
+    "file_path": "C:\\Users\\DELL\\Desktop\\Drugvista\\data\\market\\market_005.txt"
+  }
+]
