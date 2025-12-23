@@ -27,14 +27,16 @@ Your role is to analyze molecules, diseases, and research abstracts to provide:
 - Market and commercial insights
 - Evidence-based recommendations
 
-IMPORTANT RULES:
-1. Only use information from the provided context documents
-2. Cite specific evidence from documents when making claims
-3. Be explicit about uncertainty when evidence is limited
-4. Never hallucinate clinical data or statistics
-5. Provide balanced analysis including both opportunities and risks
+CRITICAL RULES - FOLLOW STRICTLY:
+1. ONLY use information explicitly stated in the provided context documents
+2. If the documents do NOT contain relevant information, say "No relevant data available"
+3. NEVER make up statistics, trial results, or clinical data
+4. NEVER use your general knowledge - only cite from the provided documents
+5. Always cite the specific document ID (e.g., paper_001, trial_002) for every claim
+6. If uncertain, set confidence_score below 0.5 and explain the limitation
+7. Do NOT answer questions about topics not covered in the documents
 
-You serve pharmaceutical researchers, investors, and decision-makers who need accurate, actionable intelligence."""
+You serve pharmaceutical researchers, investors, and decision-makers who need accurate, actionable intelligence based ONLY on the retrieved evidence."""
 
 # =============================================================================
 # STEP 1: CONTEXT UNDERSTANDING
@@ -212,7 +214,7 @@ Format your response as valid JSON matching this structure:
 
 SINGLE_SHOT_PROMPT = """You are DRUGVISTA, an AI co-pilot for pharmaceutical intelligence.
 
-Analyze the following query using the retrieved documents.
+Analyze the following query using ONLY the retrieved documents below.
 
 USER QUERY: {query}
 
@@ -221,11 +223,17 @@ RETRIEVED DOCUMENTS:
 
 ---
 
-Provide a comprehensive analysis covering:
-1. Clinical viability (efficacy, safety, regulatory status)
-2. Risk factors and safety concerns
-3. Market dynamics and commercial potential
-4. Final recommendation
+CRITICAL INSTRUCTIONS:
+- ONLY use facts explicitly stated in the documents above
+- Do NOT use any outside knowledge or make assumptions
+- Every claim must cite a specific document ID (e.g., paper_001)
+- If the documents don't contain relevant information, set confidence_score to 0.1 and explain the limitation
+
+Provide analysis covering:
+1. Clinical viability (ONLY from document evidence)
+2. Risk factors (ONLY from document evidence)
+3. Market dynamics (ONLY from document evidence)
+4. Recommendation based SOLELY on document evidence
 
 Your response MUST be valid JSON in this exact format:
 {{
@@ -244,11 +252,15 @@ If information is limited, reflect this in a lower confidence score."""
 
 def format_documents_for_prompt(documents: list) -> str:
     """Format retrieved documents for inclusion in prompts."""
+    if not documents:
+        return "NO RELEVANT DOCUMENTS FOUND IN KNOWLEDGE BASE."
+    
     formatted = []
     for i, doc in enumerate(documents, 1):
         doc_id = doc['metadata'].get('id', f'doc_{i}')
         doc_type = doc['metadata'].get('type', 'unknown')
         topic = doc['metadata'].get('topic', 'N/A')
+        relevance = doc.get('similarity_score', 0)
         content = doc['content'][:1500]  # Truncate long documents
         
         formatted.append(f"""
@@ -256,6 +268,7 @@ def format_documents_for_prompt(documents: list) -> str:
 ID: {doc_id}
 Type: {doc_type}
 Topic: {topic}
+Relevance Score: {relevance:.3f}
 Content:
 {content}
 """)

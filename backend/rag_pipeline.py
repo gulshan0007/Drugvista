@@ -132,6 +132,9 @@ class RAGPipeline:
         
         return response.choices[0].message.content
     
+    # Minimum similarity score threshold - below this, docs are not relevant
+    RELEVANCE_THRESHOLD = 0.25  # Lowered for better recall
+    
     def retrieve_context(self, query: str, top_k: int = 5) -> Dict[str, Any]:
         """
         Retrieve relevant documents for the query.
@@ -151,10 +154,31 @@ class RAGPipeline:
             categorized['market']
         )
         
+        # Filter documents by relevance threshold
+        relevant_docs = [
+            doc for doc in all_docs 
+            if doc.get('similarity_score', 0) >= self.RELEVANCE_THRESHOLD
+        ]
+        
+        # Calculate average relevance score
+        avg_score = sum(d.get('similarity_score', 0) for d in all_docs) / len(all_docs) if all_docs else 0
+        max_score = max((d.get('similarity_score', 0) for d in all_docs), default=0)
+        
+        # Determine if query is within scope of knowledge base
+        # Relaxed condition: at least 1 relevant doc OR max score >= 0.3
+        is_relevant = len(relevant_docs) >= 1 and max_score >= 0.3
+        
+        # Debug logging
+        print(f"  [Retrieval] max_score={max_score:.3f}, relevant_docs={len(relevant_docs)}, is_relevant={is_relevant}")
+        
         return {
-            'all_documents': all_docs,
+            'all_documents': relevant_docs if is_relevant else all_docs,
             'categorized': categorized,
-            'formatted': format_documents_for_prompt(all_docs)
+            'formatted': format_documents_for_prompt(relevant_docs) if is_relevant else format_documents_for_prompt(all_docs),
+            'is_relevant': is_relevant,
+            'avg_score': avg_score,
+            'max_score': max_score,
+            'relevant_count': len(relevant_docs)
         }
     
     def _parse_json_response(self, response: str) -> Dict[str, Any]:
@@ -178,6 +202,27 @@ class RAGPipeline:
             "explanation": response[:500] if response else "Analysis failed."
         }
     
+    def _no_data_response(self, query: str, context: Dict[str, Any]) -> AnalysisResult:
+        """
+        Return a response when query is outside the knowledge base scope.
+        Prevents hallucination by being explicit about data limitations.
+        """
+        return AnalysisResult(
+            clinical_viability="Unknown",
+            key_evidence=[],
+            major_risks=["Insufficient data in knowledge base"],
+            market_signal="Unknown",
+            recommendation="No Data Available",
+            confidence_score=0.0,
+            explanation=f"The query '{query}' does not match any documents in the DRUGVISTA knowledge base. "
+                       f"The system currently contains information about: GLP-1 agonists (Semaglutide, Tirzepatide), "
+                       f"CAR-T therapy (Tisagenlecleucel), PCSK9 inhibitors (Evolocumab), Alzheimer's treatments "
+                       f"(Lecanemab, Donanemab), CRISPR gene therapy, PD-1 inhibitors (Pembrolizumab), "
+                       f"JAK inhibitors (Tofacitinib), mRNA vaccines, SGLT2 inhibitors (Dapagliflozin), "
+                       f"and Bispecific antibodies (Teclistamab). Please query one of these topics for accurate analysis.",
+            raw_reasoning={"retrieval_scores": f"max={context.get('max_score', 0):.3f}, avg={context.get('avg_score', 0):.3f}"}
+        )
+    
     def analyze_single_shot(self, query: str) -> AnalysisResult:
         """
         Single-shot analysis (faster, less detailed).
@@ -189,6 +234,11 @@ class RAGPipeline:
         """
         # Retrieve context
         context = self.retrieve_context(query)
+        
+        # Check if query is within knowledge base scope
+        if not context.get('is_relevant', False):
+            print(f"  [WARNING] Query outside knowledge base scope (max_score={context.get('max_score', 0):.3f})")
+            return self._no_data_response(query, context)
         
         # Build prompt
         prompt = SINGLE_SHOT_PROMPT.format(
@@ -225,6 +275,11 @@ class RAGPipeline:
         
         # Step 0: Retrieve context
         context = self.retrieve_context(query)
+        
+        # Check if query is within knowledge base scope
+        if not context.get('is_relevant', False):
+            print(f"  [WARNING] Query outside knowledge base scope (max_score={context.get('max_score', 0):.3f})")
+            return self._no_data_response(query, context)
         
         # Step 1: Context Understanding
         print("  Step 1/4: Understanding context...")
